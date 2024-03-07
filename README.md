@@ -1,2 +1,3 @@
-# Open-and-save-PDF-files-from-and-to-local-device-storage-in-Flutter
-Example application to open and save PDF files from and to local device storage using Syncfusion Flutter PDF Viewer.
+# Open and save PDF files from and to local device storage in Flutter
+
+This repository contains an example that demonstrates how to open and save PDF files from and to local device storage using the Syncfusion Flutter PDF Viewer.
